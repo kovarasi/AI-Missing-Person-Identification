@@ -6,3 +6,4 @@ A technology-based project for supporting missing person identification using AI
 - [Project Overview](docs/project-overview.md)
 - [Project Features](docs/features.md)
 - [Project Workflow](docs/workflow.md)
+ 
